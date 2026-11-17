@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://3d.duriup.com.br/sitemap.xml
